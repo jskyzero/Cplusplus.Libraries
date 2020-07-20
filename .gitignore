@@ -3,4 +3,7 @@
 *.dump
 *.s
 
+*.a
+*.so
+
 .vscode
